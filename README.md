@@ -1,1 +1,2 @@
-# link.webfullsympathy.com
+# リンク集
+https://link.webfullsympathy.com
